@@ -19,7 +19,19 @@
         android:gravity="center"
         android:textSize="52sp" />
 
-    <!-- Add other UI elements like timer, feedback, etc. -->
+
+    <!-- Easy Category View -->
+    <ImageView
+        android:id="@+id/categoryImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:src="@drawable/easycat" />
+
+    <!-- Add other UI elements like t
+    imer, feedback, etc. -->
     <!-- Adjust their positions and sizes to fit the landscape orientation -->
 
 </RelativeLayout>

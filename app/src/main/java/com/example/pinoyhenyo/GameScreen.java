@@ -1,5 +1,7 @@
 package com.example.pinoyhenyo;
 
+import android.hardware.SensorEventListener;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.hardware.Sensor;
@@ -20,7 +22,7 @@ public class GameScreen extends AppCompatActivity implements SensorEventListener
     private Vibrator vibrator;
     private WordLoader wordLoader;
     private String currentWord;
-
+    private ImageView categoryImageView;
     private TextView wordTextView;
 
     @Override
