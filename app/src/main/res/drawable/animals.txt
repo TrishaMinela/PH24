@@ -1,0 +1,100 @@
+Tiger
+Lion
+Elephant
+Giraffe
+Zebra
+Cheetah
+Gorilla
+Chimpanzee
+Orangutan
+Hippopotamus
+Rhinoceros
+Jaguar
+Leopard
+Panther
+Wolf
+Fox
+Bear
+Moose
+Deer
+Elk
+Bison
+Coyote
+Lynx
+Bobcat
+Mountain Lion
+Hare
+Rabbit
+Squirrel
+Chipmunk
+Raccoon
+Skunk
+Porcupine
+Hedgehog
+Badger
+Wolverine
+Otter
+Beaver
+Platypus
+Kangaroo
+Koala
+Wallaby
+Wombat
+Tasmanian Devil
+Dingo
+Opossum
+Armadillo
+Antelope
+Gazelle
+Wildebeest
+Impala
+Springbok
+Ibex
+Goat
+Sheep
+Cow
+Horse
+Donkey
+Mule
+Camel
+Llama
+Alpaca
+Giraffe
+Camelopard
+Okapi
+Tapir
+Warthog
+Baboon
+Mandrill
+Gibbon
+Lemur
+Tamarin
+Capuchin
+Marmoset
+Langur
+Macaque
+Bonobo
+Gibbon
+Lemming
+Vole
+Shrew
+Mole
+Bat
+Hedgehog
+Sloth
+Armadillo
+Pangolin
+Anteater
+Sloth Bear
+Sun Bear
+Spectacled Bear
+Polar Bear
+Panda
+Red Panda
+Black Bear
+Grizzly Bear
+Kodiak Bear
+Giant Panda
+Panda Bear
+Brown Bear
+American Black Bear
