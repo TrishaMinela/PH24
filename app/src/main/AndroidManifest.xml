@@ -21,7 +21,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".GameScreen"></activity>
+        <activity android:name=".GameScreen"
+            android:screenOrientation="landscape"></activity>
     </application>
 
 </manifest>
