@@ -8,9 +8,8 @@
         android:id="@+id/backgroundImageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        android:src="@drawable/normal_background"
-        android:rotation="-90" />
+        android:scaleType="fitXY"
+        android:src="@drawable/normal_background"/>
 
 
     <!-- Word TextView -->
