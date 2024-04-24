@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 imgHomeScreen.postDelayed(new Runnable() {
                     @Override
                     public void run() {
-                        Intent intent = new Intent(MainActivity.this, GameScreen.class);
+                        Intent intent = new Intent(MainActivity.this, GameLevel.class);
                         startActivity(intent);
                     }
                 }, 500);  // 0.5 seconds delay
