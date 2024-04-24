@@ -5,10 +5,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 public class GameLevel extends AppCompatActivity {
+
     private ImageView imgGameLevelBackground;
     private Button btnEasy, btnMedium, btnHard;
 
@@ -17,6 +17,7 @@ public class GameLevel extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game_level);
 
+        imgGameLevelBackground = findViewById(R.id.imgGameLevelBackground);
         btnEasy = findViewById(R.id.btnEasy);
         btnMedium = findViewById(R.id.btnMedium);
         btnHard = findViewById(R.id.btnHard);
@@ -24,27 +25,42 @@ public class GameLevel extends AppCompatActivity {
         btnEasy.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Change background image for Easy level
+                // Change background image for Easy level with delay
                 imgGameLevelBackground.setImageResource(R.drawable.easy_clicked);
-                startGameScreen("Easy");
+                imgGameLevelBackground.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        startGameScreen("Easy");
+                    }
+                }, 500);  // 0.5 seconds delay
             }
         });
 
         btnMedium.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Change background image for Medium level
+                // Change background image for Medium level with delay
                 imgGameLevelBackground.setImageResource(R.drawable.medium_clicked);
-                startGameScreen("Medium");
+                imgGameLevelBackground.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        startGameScreen("Medium");
+                    }
+                }, 500);  // 0.5 seconds delay
             }
         });
 
         btnHard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Change background image for Hard level
+                // Change background image for Hard level with delay
                 imgGameLevelBackground.setImageResource(R.drawable.hard_clicked);
-                startGameScreen("Hard");
+                imgGameLevelBackground.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        startGameScreen("Hard");
+                    }
+                }, 500);  // 0.5 seconds delay
             }
         });
     }
