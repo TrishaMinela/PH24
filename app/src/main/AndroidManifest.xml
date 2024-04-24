@@ -24,6 +24,7 @@
         </activity>
         <activity android:name=".GameScreen"
             android:screenOrientation="landscape"></activity>
+        <activity android:name=".GameLevel"></activity>
 
     </application>
 

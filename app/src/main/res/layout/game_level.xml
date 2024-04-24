@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_level">
+
+    <!-- Background Image -->
+
+    <!-- Easy Button -->
+    <ImageView
+        android:id="@+id/imgGameLevelBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/game_level" />
+
+    <Button
+        android:id="@+id/btnEasy"
+        android:layout_width="270dp"
+        android:layout_height="130dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:background="@android:color/transparent" />
+
+    <!-- Medium Button -->
+    <Button
+        android:id="@+id/btnMedium"
+        android:layout_width="270dp"
+        android:layout_height="130dp"
+        android:layout_below="@id/btnEasy"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@android:color/transparent" />
+
+    <!-- Hard Button -->
+    <Button
+        android:id="@+id/btnHard"
+        android:layout_width="270dp"
+        android:layout_height="130dp"
+        android:layout_below="@id/btnMedium"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@android:color/transparent" />
+
+</RelativeLayout>
