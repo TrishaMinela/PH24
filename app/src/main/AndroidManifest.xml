@@ -25,9 +25,6 @@
         <activity android:name=".GameScreen"
             android:screenOrientation="landscape"></activity>
 
-        <uses-permission android:name="android.permission.WAKE_LOCK"/>
-        <uses-permission android:name="android.permission.VIBRATE"/>
-
     </application>
 
 </manifest>
