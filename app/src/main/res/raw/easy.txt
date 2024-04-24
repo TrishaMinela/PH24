@@ -1,0 +1,515 @@
+Tiger
+Lion
+Elephant
+Giraffe
+Zebra
+Cheetah
+Gorilla
+Chimpanzee
+Orangutan
+Hippopotamus
+Rhinoceros
+Jaguar
+Leopard
+Panther
+Wolf
+Fox
+Bear
+Moose
+Deer
+Elk
+Bison
+Coyote
+Lynx
+Bobcat
+Mountain Lion
+Hare
+Rabbit
+Squirrel
+Chipmunk
+Raccoon
+Skunk
+Porcupine
+Hedgehog
+Badger
+Wolverine
+Otter
+Beaver
+Platypus
+Kangaroo
+Koala
+Wallaby
+Wombat
+Tasmanian Devil
+Dingo
+Opossum
+Armadillo
+Antelope
+Gazelle
+Wildebeest
+Impala
+Springbok
+Ibex
+Goat
+Sheep
+Cow
+Horse
+Donkey
+Mule
+Camel
+Llama
+Alpaca
+Giraffe
+Camelopard
+Okapi
+Tapir
+Warthog
+Baboon
+Mandrill
+Gibbon
+Lemur
+Tamarin
+Capuchin
+Marmoset
+Langur
+Macaque
+Bonobo
+Gibbon
+Lemming
+Vole
+Shrew
+Mole
+Bat
+Hedgehog
+Sloth
+Armadillo
+Pangolin
+Anteater
+Sloth Bear
+Sun Bear
+Spectacled Bear
+Polar Bear
+Panda
+Red Panda
+Black Bear
+Grizzly Bear
+Kodiak Bear
+Giant Panda
+Panda Bear
+Brown Bear
+American Black Bear
+Jollibee (Fast food)
+SM (Retail)
+Globe Telecom (Telecommunications)
+PLDT (Telecommunications)
+San Miguel Corporation (Beverages, Food, Packaging)
+Bench (Fashion, Retail)
+Ayala Land (Real Estate)
+BPI (Banking)
+Ayala Corporation (Conglomerate)
+Mercury Drug (Pharmacy, Retail)
+ABS-CBN (Media)
+Mang Inasal (Fast food)
+Max's Restaurant (Casual dining)
+Chowking (Fast food)
+Goldilocks (Bakery, Restaurant)
+Puregold (Retail)
+Greenwich Pizza (Fast food)
+Alaska Milk Corporation (Dairy)
+RC Cola (Beverages)
+Century Tuna (Canned Goods)
+Cebu Pacific (Airline)
+PAL (Philippine Airlines) (Airline)
+BDO (Banking)
+SMDC (Real Estate)
+LandBank (Banking)
+Metrobank (Banking)
+LBC Express (Courier, Remittance)
+Meralco (Electric utility)
+Wilcon Depot (Home Improvement)
+Robinsons Land Corporation (Real Estate)
+7-Eleven (Convenience store)
+Greenwich (Fast food)
+Chowking (Fast food)
+Mercury Drug (Pharmacy, Retail)
+Bench (Fashion, Retail)
+Globe Telecom (Telecommunications)
+PLDT (Telecommunications)
+Coca-Cola (Beverages)
+Apple (Technology)
+Samsung (Technology)
+Toyota (Automobiles)
+McDonald's (Fast Food)
+Nike (Sportswear)
+Adidas (Sportswear)
+Google (Technology)
+Amazon (E-commerce)
+Microsoft (Technology)
+Facebook (Social Media)
+Walmart (Retail)
+BMW (Automobiles)
+Mercedes-Benz (Automobiles)
+Volkswagen (Automobiles)
+Honda (Automobiles)
+Ford (Automobiles)
+Audi (Automobiles)
+Sony (Electronics)
+Panasonic (Electronics)
+LG (Electronics)
+Nestle (Food and Beverage)
+PepsiCo (Food and Beverage)
+KFC (Fast Food)
+Starbucks (Coffeehouse)
+Emirates (Airline)
+Qatar Airways (Airline)
+Singapore Airlines (Airline)
+British Airways (Airline)
+Lufthansa (Airline)
+Emirates (Airline)
+Chanel (Fashion)
+Louis Vuitton (Fashion)
+Gucci (Fashion)
+Prada (Fashion)
+Rolex (Watches)
+Cartier (Jewelry)
+Tiffany & Co. (Jewelry)
+Ferrari (Automobiles)
+Lamborghini (Automobiles)
+Porsche (Automobiles)
+Rolls-Royce (Automobiles)
+Bentley (Automobiles)
+Aston Martin (Automobiles)
+Hermes (Fashion)
+Burberry (Fashion)
+H&M (Fashion)
+Uniqlo (Fashion)
+Gap (Fashion)
+Zara (Fashion)
+Sephora (Beauty)
+MAC Cosmetics (Beauty)
+Estee Lauder (Beauty)
+L'Oreal (Beauty)
+Clinique (Beauty)
+Chanel (Beauty)
+IKEA (Furniture)
+Home Depot (Home Improvement)
+Target (Retail)
+Costco (Retail)
+Tesco (Retail)
+Aldi (Retail)
+Carrefour (Retail)
+IKEA (Furniture)
+Ferrari (Automobiles)
+Lamborghini (Automobiles)
+Porsche (Automobiles)
+Rolls-Royce (Automobiles)
+Bentley (Automobiles)
+Aston Martin (Automobiles)
+Intel (Technology)
+IBM (Technology)
+HP (Hewlett-Packard) (Technology)
+Dell (Technology)
+Siemens (Technology)
+Oracle (Technology)
+Nokia (Technology)
+Xiaomi (Technology)
+Adobo
+Sinigang
+Halo-halo
+Lechon
+Pancit
+Kare-kare
+Balut
+Lumpia
+Sisig
+Bibingka
+Tinola
+Pinakbet
+Bicol Express
+Puto
+Chicken Inasal
+Bulalo
+Chicharon
+Taho
+Champorado
+Dinuguan
+Crispy Pata
+Laing
+Kakanin
+Bangus (Milkfish)
+Empanada
+Longganisa
+Tortang Talong
+Kare-kareng Baka
+Arroz Caldo
+Goto
+Kwek-kwek
+Bagoong
+Leche Flan
+Pancit Malabon
+Tokwat Baboy
+Pansit Habhab
+Ukoy
+Ginataang Gulay
+Sinangag
+Lechon Kawali
+Biko
+Dinakdakan
+Bulanglang
+Inihaw na Pusit
+Bibingka Galapong
+Kinilaw
+Ampalaya con Carne
+Dinengdeng
+Chicken Tinola
+Paksiw na Isda
+Sinampalukang Manok
+Pritong Manok
+Tapsilog
+Ginataang Langka
+Ginataang Alimango
+Ginisang Munggo
+Papaitan
+Humba
+Ginisang Ampalaya
+Binagoongan
+Ube Halaya
+Escabeche
+Atchara
+Suman
+Espasol
+Kalamay
+Carioca
+Kutsinta
+Sapin-sapin
+Buko Pie
+Turon
+Banana Cue
+Ginataang Mais
+Gising-gising
+Mechado
+Ginisang Upo
+Sinanglaw
+Sinuglaw
+Kilawing Malasugui
+Ginataang Puso ng Saging
+Pochero
+Ginataang Labong
+Ampalaya Salad
+Ginataang Manok
+Halaan Soup
+Tortang Dulong
+Kare-kareng Gulay
+Ginataang Pagi
+Suam na Mais
+Sinarsahang Manok
+Pininyahang Manok
+Chicharon Bulaklak
+Gising-gising
+Ginataang Kuhol
+Kadyos, Baboy, at Langka
+Sinanglaw
+Batil Patong
+Goto
+Batchoy
+Chicken Arroz Caldo
+Talong (Eggplant)
+Ampalaya (Bitter Melon)
+Kalabasa (Squash)
+Upo (Bottle Gourd)
+Sigarilyas (Winged Bean)
+Labanos (Radish)
+Patola (Luffa)
+Pechay (Bok Choy)
+Sitaw (String Beans)
+Sayote (Chayote)
+Kangkong (Water Spinach)
+Kamote (Sweet Potato)
+Labong (Bamboo Shoots)
+Puso ng Saging (Banana Blossom)
+Okra (Ladyfinger)
+Luya (Ginger)
+Mustasa (Mustard Greens)
+Kankong (Chinese Water Spinach)
+Litsugas (Iceberg Lettuce)
+Gabi (Taro)
+Ampalayang ligaw (Wild Bitter Melon)
+Alugbati (Malabar Spinach)
+Patani (Lima Beans)
+Kalunay (Watercress)
+Kamatis (Tomato)
+Ampalayang saging (Banana Bitter Melon)
+Baguio Beans (Baguio Beans)
+Bataw (Hyacinth Beans)
+Lasona (Garlic)
+Talbos ng Kamote (Sweet Potato Tops)
+Kangkong Gubat (Swamp Morning Glory)
+Gata (Coconut Milk)
+Pechay Baguio (Pechay from Baguio)
+Ampalaya na maliit (Small Bitter Melon)
+Patola (Patola)
+Sibuyas (Onion)
+Mustasa (Mustard)
+Labong (Labong)
+Kulitis (Amaranth)
+Upo (Upo)
+Alugbati (Alugbati)
+Saluyot (Saluyot)
+Labanos (Labanos)
+Toge (Bean Sprouts)
+Kalunay (Kalunay)
+Labong (Labong)
+Puso ng Saging (Banana Blossom)
+Kangkong (Kangkong)
+Talbos ng Kamote (Sweet Potato Tops)
+Patani (Patani)
+Patola (Patola)
+Baguio Beans (Baguio Beans)
+Sibuyas (Onion)
+Luya (Ginger)
+Lasona (Garlic)
+Sayote (Sayote)
+Mustasa (Mustasa)
+Gabi (Gabi)
+Talong (Talong)
+Kamatis (Tomato)
+Labanos (Radish)
+Ampalaya (Ampalaya)
+Pechay (Pechay)
+Kamote (Kamote)
+Okra (Okra)
+Patola (Patola)
+Kangkong (Kangkong)
+Luya (Ginger)
+Talong (Eggplant)
+Labanos (Radish)
+Sayote (Chayote)
+Upo (Bottle Gourd)
+Sigarilyas (Winged Bean)
+Labong (Bamboo Shoots)
+Patani (Lima Beans)
+Kamatis (Tomato)
+Alugbati (Malabar Spinach)
+Kalabasa (Squash)
+Pechay (Bok Choy)
+Kangkong (Water Spinach)
+Patola (Luffa)
+Baguio Beans (String Beans)
+Sibuyas (Onion)
+Luya (Ginger)
+Kamote (Sweet Potato)
+Mustasa (Mustard)
+Bataw (Hyacinth Beans)
+Toge (Bean Sprouts)
+Kulitis (Amaranth)
+Gata (Coconut Milk)
+Lasona (Garlic)
+Kulitis (Amaranth)
+Sibuyas (Onion)
+Gata (Coconut Milk)
+Labanos (Radish)
+Puso ng Saging (Banana Blossom)
+Patani (Lima Beans)
+Sayote (Chayote)
+Saluyot (Jute)
+Baguio Beans (String Beans)
+Mango (Mangga)
+Banana (Saging)
+Pineapple (Pinya)
+Papaya (Papaya)
+Coconut (Buko)
+Watermelon (Pakwan)
+Guava (Bayabas)
+Avocado (Abukado)
+Rambutan (Rambutan)
+Durian (Durian)
+Jackfruit (Langka)
+Lanzones (Lanzones)
+Pomelo (Suha)
+Chico (Chico)
+Santol (Santol)
+Guyabano (Guyabano)
+Lychee (Litsiyas)
+Dragonfruit (Dragonfruit)
+Calamansi (Calamansi)
+Star Apple (Kaimito)
+Passionfruit (Pasyonfruit)
+Bignay (Bignay)
+Atis (Atis)
+Soursop (Guyabano)
+Tambis (Tambis)
+Starfruit (Balimbing)
+Cashew (Kasoy)
+Bignay (Bignay)
+Tamarind (Sampalok)
+Mangosteen (Mangosteen)
+Dalandan (Dalandan)
+Longan (Longan)
+Marang (Marang)
+Santol (Santol)
+Pomelo (Suha)
+Sineguelas (Sineguelas)
+Guapple (Guapple)
+Aratilis (Aratilis)
+Abiu (Abiu)
+Makopa (Makopa)
+Langsat (Langsat)
+Pineapple Guava (Kamatsile)
+Malay Apple (Mansanitas)
+Indian Mango (Manggang Kalabaw)
+Indian Jujube (Tinampal)
+Green Mango (Hilaw na Mangga)
+Yellow Mango (Hinog na Mangga)
+Green Apple (Hilaw na Mansanas)
+Red Apple (Pula na Mansanas)
+Seedless Grapes (Ubod na Grapes)
+Black Grapes (Itim na Grapes)
+Red Grapes (Pula na Grapes)
+Yellow Grapes (Dilaw na Grapes)
+Kiwi (Kiwi)
+Lemon (Lemon)
+Lime (Dayap)
+Lychee (Litsiyas)
+Mangosteen (Mangosteen)
+Melon (Melon)
+Mulberry (Moras)
+Orange (Dalandan)
+Passion Fruit (Pasyonfruit)
+Peach (Peach)
+Pear (Pera)
+Persimmon (Persimmon)
+Plum (Plum)
+Pomegranate (Granada)
+Raspberry (Raspberry)
+Red Banana (Pula na Saging)
+Sapodilla (Sapodilla)
+Strawberry (Strawberry)
+Tamarillo (Tamarillo)
+Tamarind (Sampalok)
+Watermelon (Pakwan)
+Pili Nut (Pili Nut)
+Mangrove Apple (Bungalon)
+Bignay (Bignay)
+Duhat (Duhat)
+Kaimito (Kaimito)
+Lanzones (Lanzones)
+Makopa (Makopa)
+Tambis (Tambis)
+Atemoya (Atemoya)
+Bignay (Bignay)
+Cashew (Kasoy)
+Chesa (Chesa)
+Marang (Marang)
+Passion Fruit (Pasyonfruit)
+Salak (Salak)
+Santol (Santol)
+Tamarind (Sampalok)
+Wax Jambu (Wax Jambu)
+White Sapote (White Sapote)
+Atis (Atis)
+Calamansi (Calamansi)
+Dalandan (Dalandan)
+Guyabano (Guyabano)
+Lemon (Lemon)
+Mabolo (Mabolo)
+Mangosteen (Mangosteen)

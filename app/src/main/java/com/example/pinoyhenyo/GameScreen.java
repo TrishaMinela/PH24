@@ -38,7 +38,8 @@ public class GameScreen extends AppCompatActivity implements SensorEventListener
         vibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
         // Load words from text file
-        InputStream inputStream = getResources().openRawResource(R.raw.animals);
+        //read depending on the level
+        InputStream inputStream = getResources().openRawResource(R.raw.easy);
         wordLoader = new WordLoader(inputStream);
         showNextWord();
 
