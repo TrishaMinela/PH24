@@ -24,7 +24,8 @@ public class GameScreen extends AppCompatActivity implements SensorEventListener
     private String currentWord;
     private ImageView categoryImageView;
     private TextView wordTextView;
-
+    private String level;
+    private String fileName;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,14 +33,18 @@ public class GameScreen extends AppCompatActivity implements SensorEventListener
 
         wordTextView = findViewById(R.id.wordTextView);
 
+        // Retrieve the level and file name from the intent extras
+        level = getIntent().getStringExtra("LEVEL");
+        fileName = getFileNameForLevel(level);
+
+
         // Initialize Sensor Manager and Vibrator
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         accelerometer = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
         vibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
-        // Load words from text file
-        //read depending on the level
-        InputStream inputStream = getResources().openRawResource(R.raw.easy);
+        // Load words from text file based on the selected level
+        InputStream inputStream = getResources().openRawResource(getResources().getIdentifier(fileName, "raw", getPackageName()));
         wordLoader = new WordLoader(inputStream);
         showNextWord();
 
@@ -60,6 +65,20 @@ public class GameScreen extends AppCompatActivity implements SensorEventListener
 //                break;
 //        }
     }
+
+    private String getFileNameForLevel(String level) {
+        switch (level) {
+            case "Easy":
+                return "easy";
+            case "Medium":
+                return "medium";
+            case "Hard":
+                return "hard";
+            default:
+                throw new IllegalArgumentException("Invalid level: " + level);
+        }
+    }
+
 
     private void showNextWord() {
         currentWord = wordLoader.getRandomWord();
